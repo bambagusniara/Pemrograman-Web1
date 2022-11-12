@@ -1,0 +1,43 @@
+div{
+    margin: 10px;
+    border: 1px solid black;
+}
+.kuning{
+    background-color: yellow;
+    width: 200px;
+    height: 130px;
+}
+.orange{
+    background-color: orangered;
+    width: 1050px;
+    height: 130px;
+    position: absolute;
+    left: 16.5%;
+    top: 0%;
+}
+.hijau{
+    background-color: greenyellow;
+    width: 200px;
+    height: 400px;
+}
+.hitam{
+    background-color: black;
+    width: 835px;
+    height: 400px;
+    position: absolute;
+    left: 16.5%;
+    top: 21.3%;
+}
+.biru{
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    left: 79.5%;
+    top: 21.3%;
+}
+.ungu{
+    background-color: purple;
+    width: 1265px;
+    height: 100px;
+}
